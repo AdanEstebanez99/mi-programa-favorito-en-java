@@ -1,13 +1,3 @@
-# mi-programa-favorito-en-java
-El programa que más me ha gustado de todos en Java
-
-## La Piramide
-
-La piramide es mi programa favorito en java por que fue el primer programa de dibujos que hicimos con bucles, y ademas fue el primer programa realmente complicado en comparació.n con los programas anteriores a este que eran mucho más simples.
-
-A continuacion se muestra el codigo de *"La Piramide"* en java:
-
-```java
 /**
  * Ejercicio 19: Programa que pinta una piramide y tienes que introducirle
  * la altura y los caracteres.
@@ -42,12 +32,3 @@ public static void main(String[] args) {
  }
  }
 
-```
-
-Para compilar el programa teclea lo siguiente:
-```console
-javac Piramide.java
-```
-## Resultado del Programa:
-
-<img src="imagenes/Captura.png">
