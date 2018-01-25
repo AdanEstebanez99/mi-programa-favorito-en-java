@@ -50,4 +50,4 @@ javac Piramide.java
 ```
 ## Resultado del Programa:
 
-<img src="imagenes/Captura.png">
+<img src="imagenes/Captura.jpeg">
